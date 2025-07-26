@@ -22,7 +22,7 @@ import os
 
 
 
-ytapi_key = 'AIzaSyCXo-Be62wpijOC3ZpU48G4ByxB4vTXsCw'
+ytapi_key = 'API KEY'
 ytapisvc = build('youtube', 'v3', developerKey=ytapi_key)
 ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("green") #
